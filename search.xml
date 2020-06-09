@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>第一天</title>
+    <url>/2020/06/09/%E7%AC%AC%E4%B8%80%E5%A4%A9/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>搭建博客</category>
+      </categories>
+      <tags>
+        <tag>第一天</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>第二天</title>
+    <url>/2020/06/09/%E7%AC%AC%E4%BA%8C%E5%A4%A9/</url>
+    <content><![CDATA[<h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2>]]></content>
+      <categories>
+        <category>前端</category>
+      </categories>
+      <tags>
+        <tag>记事</tag>
+      </tags>
+  </entry>
+</search>
